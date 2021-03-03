@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/eventsource@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.npm.taobao.org/@types/eventsource/download/@types/eventsource-1.1.2.tgz#079ab4213e844e56f7384aec620e1163dab692b3"
-  integrity sha1-B5q0IT6ETlb3OErsYg4RY9q2krM=
+"@types/eventsource@^1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@types/eventsource/-/eventsource-1.1.5.tgz#408e9b45efb176c8bea672ab58c81e7ab00d24bc"
+  integrity sha512-BA9q9uC2PAMkUS7DunHTxWZZaVpeNzDG8lkBxcKwzKJClfDQ4Z59/Csx7HSH/SIqFN2JWh0tAKAM6k/wRR0OZg==
 
 "@types/node@^12.7.2":
   version "12.7.2"
